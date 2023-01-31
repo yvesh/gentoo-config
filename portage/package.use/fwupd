@@ -1,1 +1,1 @@
-sys-apps/fwupd uefi flashrom gnutls
+sys-apps/fwupd flashrom nvme archive bash-completion uefi gnutls

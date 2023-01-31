@@ -1,1 +1,1 @@
-app-emulation/libvirt fuse lxc virt-network numa
+app-emulation/libvirt qemu zfs numa macvtap pcap

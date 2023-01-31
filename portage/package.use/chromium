@@ -1,1 +1,1 @@
-www-client/chromium hangouts -suid -tcmalloc
+www-client/chromium -screencast -suid -vaapi -wayland

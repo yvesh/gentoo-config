@@ -1,1 +1,1 @@
-media-video/ffmpeg amr chromium gsm jack libtesseract libdrm openh264 v4l webp x265 vdpau jpeg2k
+media-video/ffmpeg libv4l nvenc webp libtesseract openh264 opus libdrm opencl v4l libaom
